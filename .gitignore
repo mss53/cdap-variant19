@@ -1,0 +1,24 @@
+# Data Science ignores
+/data/*
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
